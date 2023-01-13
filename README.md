@@ -1,6 +1,6 @@
 # Flex Mouse Grid
 
-A hands-free mouse grid by Ben Rollin, Tara Roys, timotimo, and aegis, for use with the [Talon voice framework](https://talonvoice.com/). Flex Mouse Grid is just the latest in a series of iterations, and was built on top of [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid).
+ by Ben Rollin, Tara Roys, timotimo, and aegis, for use with the [Talon voice framework](https://talonvoice.com/). Flex Mouse Grid is just the latest in a series of iterations, and was built on top of [Dense Mouse Grid](https://github.com/tararoys/dense-mouse-grid).
 
 You can think of Flex Mouse Grid as extending the functionality of Dense Mouse Grid, attempting to be an even more flexible, all-in-one voice mouse tool. Some notable differences from Dense Mouse Grid:
 
@@ -176,7 +176,7 @@ will result in moving the cursor to coordinate 1 B C.
 
 If frame mode does not suit you, there are two other modes that can be used to show the coordinates.
 
-- `grid checker` turns on checker mode, which overlays the coordinates in a checker pattern. This can be visually confusing, but it splits the difference between being able to immediately see the coordinate and being able to see the contents of your screen.
+- `grid checker` turns on checker mode, which overlays the coordiantes in a checker pattern. This can be visually confusing, but it splits the difference between being able to immediately see the coordinate and being able to see the contents of your screen.
 - `grid full` shows every possible coordinate.
 - `grid phonetic` switch to phonetic mode, which is just like frame mode except with full phonetic words labeling the rows and columns instead of individual letters.
 - `grid frame` switches to frame mode (the default).
