@@ -24,7 +24,7 @@ move to the "sprint" button with the phrase `point sprint`
 say`map act box thirteen past three`
 each box got put into a point list with the label "act". Move cursor to the "sprint" button: `point act nine`.
 
-### Finding more boxes
+## Finding more boxes
 - `upper` box size upper bound.
 - `lower` box size lower bound.
 - `threshold` the filtering threshold. The higher the number, the lighter that colors can be distinguished.
@@ -44,18 +44,18 @@ to toggle an overlay of the processed image.
 - `grid close` 
 select the wrong row, `row <letter>` move to 1 B C.
 
-### More modes
+## More modes
 - `grid phonetic`
 - `grid frame` switches to frame mode
 
-### Grid size
+## Grid size
 - `grid bigger`
 - `grid smaller`
  `bump`, e.g. `grid bigger bump`.
 
 The default size `flex_mouse_settings.talon` - change the number in `user.flex_mouse_grid_field_size = "30"`.
 
-### Grid visibility
+## Grid visibility
 - `background lighter`
 - `background darker`
 - `letters lighter`
