@@ -10,6 +10,10 @@
 		{
 			"name": "talon_ui_helper-emmakat",
 			"path": "../talon_ui_helper-emmakat"
+		},
+		{
+			"name": "talon-window-tweak-emmakat",
+			"path": "../talon-window-tweak-emmakat"
 		}
 	],
 	"settings": {}
