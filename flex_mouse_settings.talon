@@ -46,4 +46,4 @@ settings():
 
     # Mode settings: each time you close and reopen the grid it reverts to the following
     # mode. There are four modes: "phonetic" , "frame", "checkers" , and "full".
-    user.flex_mouse_grid_startup_mode = "frame"
+    user.flex_mouse_grid_startup_mode = "phonetic"

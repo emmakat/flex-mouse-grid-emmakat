@@ -1252,17 +1252,17 @@ class GridActions:
         mg.add_partial_input(str(letter))
 
     # GRID CONFIG
-    def flex_grid_checkers():
-        """Set pattern to checkers"""
-        mg.set_pattern("checkers")
+ #   def flex_grid_checkers():
+ #       """Set pattern to checkers"""
+ #       mg.set_pattern("checkers")
 
     def flex_grid_frame():
         """Set pattern to frame"""
         mg.set_pattern("frame")
 
-    def flex_grid_full():
-        """Set pattern to full"""
-        mg.set_pattern("full")
+ #   def flex_grid_full():
+ #       """Set pattern to full"""
+ #       mg.set_pattern("full")
 
     def flex_grid_phonetic():
         """Set pattern to phonetic"""
