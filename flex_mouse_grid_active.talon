@@ -44,7 +44,7 @@ tag: user.flex_mouse_grid_showing
 
 # Configuration
 # Change the overlay pattern to a checkerboard pattern.
-grid checker: user.flex_grid_checkers()
+#grid checker: user.flex_grid_checkers()
 
 # Change the overlay pattern to a pattern where it is overlaid with frames.
 grid frame: user.flex_grid_frame()
@@ -54,7 +54,7 @@ grid frame: user.flex_grid_frame()
 grid phonetic: user.flex_grid_phonetic()
 
 # Change the overlay pattern to overlay the screen with every possible number-letter-letter combination
-grid full: user.flex_grid_full()
+#grid full: user.flex_grid_full()
 
 # Make the grid blocks larger.
 grid bigger: user.flex_grid_adjust_size(5)
