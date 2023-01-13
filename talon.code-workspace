@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "flex-mouse-grid-emmakat",
+			"path": "."
+		},
+		{
+			"name": "talon_ui_helper-emmakat",
+			"path": "../talon_ui_helper-emmakat"
+		}
+	],
+	"settings": {}
+}
