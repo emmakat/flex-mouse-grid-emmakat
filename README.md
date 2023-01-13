@@ -1,4 +1,4 @@
-# Flex Mouse Grid
+### Flex Mouse Grid
 
 - `map <word>` creates a new point at the current location of the mouse cursor with the label "word"
 - `unmap <word>` deletes the point labeled "word"
