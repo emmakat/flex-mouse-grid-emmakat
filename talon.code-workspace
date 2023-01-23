@@ -14,6 +14,10 @@
 		{
 			"name": "talon-window-tweak-emmakat",
 			"path": "../talon-window-tweak-emmakat"
+		},
+		{
+			"name": "mouse_guide_emmakat",
+			"path": "../mouse_guide_emmakat"
 		}
 	],
 	"settings": {}
